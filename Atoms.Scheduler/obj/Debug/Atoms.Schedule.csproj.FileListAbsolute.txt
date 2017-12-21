@@ -1,0 +1,14 @@
+E:\GitHub\Unify\PeiLian.Atoms\Atoms.Schedule\obj\Debug\Atoms.Schedule.csprojResolveAssemblyReference.cache
+E:\GitHub\Unify\PeiLian.Atoms\Atoms.Schedule\bin\Debug\Atoms.Schedule.dll
+E:\GitHub\Unify\PeiLian.Atoms\Atoms.Schedule\bin\Debug\Atoms.Schedule.pdb
+E:\GitHub\Unify\PeiLian.Atoms\Atoms.Schedule\bin\Debug\Common.Logging.Core.dll
+E:\GitHub\Unify\PeiLian.Atoms\Atoms.Schedule\bin\Debug\Common.Logging.dll
+E:\GitHub\Unify\PeiLian.Atoms\Atoms.Schedule\bin\Debug\Quartz.dll
+E:\GitHub\Unify\PeiLian.Atoms\Atoms.Schedule\bin\Debug\Common.Logging.pdb
+E:\GitHub\Unify\PeiLian.Atoms\Atoms.Schedule\bin\Debug\Common.Logging.xml
+E:\GitHub\Unify\PeiLian.Atoms\Atoms.Schedule\bin\Debug\Common.Logging.Core.pdb
+E:\GitHub\Unify\PeiLian.Atoms\Atoms.Schedule\bin\Debug\Common.Logging.Core.xml
+E:\GitHub\Unify\PeiLian.Atoms\Atoms.Schedule\bin\Debug\Quartz.pdb
+E:\GitHub\Unify\PeiLian.Atoms\Atoms.Schedule\bin\Debug\Quartz.xml
+E:\GitHub\Unify\PeiLian.Atoms\Atoms.Schedule\obj\Debug\Atoms.Schedule.dll
+E:\GitHub\Unify\PeiLian.Atoms\Atoms.Schedule\obj\Debug\Atoms.Schedule.pdb

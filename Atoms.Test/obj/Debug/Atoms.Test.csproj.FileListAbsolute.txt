@@ -1,0 +1,10 @@
+E:\GitHub\AllAtoms\Atoms\Atoms.Test\bin\Debug\Atoms.Test.dll.config
+E:\GitHub\AllAtoms\Atoms\Atoms.Test\bin\Debug\Atoms.Test.dll
+E:\GitHub\AllAtoms\Atoms\Atoms.Test\bin\Debug\Atoms.Test.pdb
+E:\GitHub\AllAtoms\Atoms\Atoms.Test\bin\Debug\Atoms.Logger.dll
+E:\GitHub\AllAtoms\Atoms\Atoms.Test\bin\Debug\Atoms.Logger.pdb
+E:\GitHub\AllAtoms\Atoms\Atoms.Test\obj\Debug\Atoms.Test.csprojResolveAssemblyReference.cache
+E:\GitHub\AllAtoms\Atoms\Atoms.Test\obj\Debug\Atoms.Test.dll
+E:\GitHub\AllAtoms\Atoms\Atoms.Test\obj\Debug\Atoms.Test.pdb
+E:\GitHub\AllAtoms\Atoms\Atoms.Test\bin\Debug\Atoms.Configer.dll
+E:\GitHub\AllAtoms\Atoms\Atoms.Test\bin\Debug\Atoms.Configer.pdb

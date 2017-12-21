@@ -1,0 +1,14 @@
+E:\GitHub\Unify\PeiLian.Atoms\Atoms.Library\bin\Debug\Atoms.Library.dll
+E:\GitHub\Unify\PeiLian.Atoms\Atoms.Library\bin\Debug\Atoms.Library.pdb
+E:\GitHub\Unify\PeiLian.Atoms\Atoms.Library\obj\Debug\Atoms.Library.dll
+E:\GitHub\Unify\PeiLian.Atoms\Atoms.Library\obj\Debug\Atoms.Library.pdb
+E:\GitHub\Unify\PeiLian.Atoms\Atoms.Library\bin\Debug\Newtonsoft.Json.dll
+E:\GitHub\Unify\PeiLian.Atoms\Atoms.Library\bin\Debug\Newtonsoft.Json.xml
+E:\GitHub\Unify\PeiLian.Atoms\Atoms.Library\obj\Debug\Atoms.Library.csprojResolveAssemblyReference.cache
+E:\GitHub\AllAtoms\Atoms\Atoms.Library\bin\Debug\Atoms.Library.dll
+E:\GitHub\AllAtoms\Atoms\Atoms.Library\bin\Debug\Atoms.Library.pdb
+E:\GitHub\AllAtoms\Atoms\Atoms.Library\bin\Debug\Newtonsoft.Json.dll
+E:\GitHub\AllAtoms\Atoms\Atoms.Library\bin\Debug\Newtonsoft.Json.xml
+E:\GitHub\AllAtoms\Atoms\Atoms.Library\obj\Debug\Atoms.Library.csprojResolveAssemblyReference.cache
+E:\GitHub\AllAtoms\Atoms\Atoms.Library\obj\Debug\Atoms.Library.dll
+E:\GitHub\AllAtoms\Atoms\Atoms.Library\obj\Debug\Atoms.Library.pdb

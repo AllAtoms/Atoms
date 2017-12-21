@@ -1,0 +1,9 @@
+E:\GitHub\Unify\PeiLian.Atoms\Atoms.Configer\bin\Debug\Atoms.Configer.dll
+E:\GitHub\Unify\PeiLian.Atoms\Atoms.Configer\bin\Debug\Atoms.Configer.pdb
+E:\GitHub\Unify\PeiLian.Atoms\Atoms.Configer\obj\Debug\Atoms.Configer.dll
+E:\GitHub\Unify\PeiLian.Atoms\Atoms.Configer\obj\Debug\Atoms.Configer.pdb
+E:\GitHub\AllAtoms\Atoms\Atoms.Configer\bin\Debug\Atoms.Configer.dll
+E:\GitHub\AllAtoms\Atoms\Atoms.Configer\bin\Debug\Atoms.Configer.pdb
+E:\GitHub\AllAtoms\Atoms\Atoms.Configer\obj\Debug\Atoms.Configer.dll
+E:\GitHub\AllAtoms\Atoms\Atoms.Configer\obj\Debug\Atoms.Configer.pdb
+E:\GitHub\AllAtoms\Atoms\Atoms.Configer\obj\Debug\Atoms.Configer.csprojResolveAssemblyReference.cache

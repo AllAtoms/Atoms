@@ -10,4 +10,8 @@ E:\GitHub\AllAtoms\Atoms\Atoms.Logger\bin\Debug\Atoms.Logger.dll
 E:\GitHub\AllAtoms\Atoms\Atoms.Logger\bin\Debug\Atoms.Logger.pdb
 E:\GitHub\AllAtoms\Atoms\Atoms.Logger\obj\Debug\Atoms.Logger.dll
 E:\GitHub\AllAtoms\Atoms\Atoms.Logger\obj\Debug\Atoms.Logger.pdb
-E:\GitHub\AllAtoms\Atoms\Atoms.Logger\obj\Debug\Atoms.Logger.csprojResolveAssemblyReference.cache
+D:\GitHub\AllAtoms\Atoms\Atoms.Logger\bin\Debug\Atoms.Logger.dll
+D:\GitHub\AllAtoms\Atoms\Atoms.Logger\bin\Debug\Atoms.Logger.pdb
+D:\GitHub\AllAtoms\Atoms\Atoms.Logger\obj\Debug\Atoms.Logger.csproj.CoreCompileInputs.cache
+D:\GitHub\AllAtoms\Atoms\Atoms.Logger\obj\Debug\Atoms.Logger.dll
+D:\GitHub\AllAtoms\Atoms\Atoms.Logger\obj\Debug\Atoms.Logger.pdb

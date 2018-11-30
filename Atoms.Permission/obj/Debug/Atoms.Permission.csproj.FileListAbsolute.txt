@@ -2,3 +2,8 @@ E:\GitHub\AllAtoms\Atoms\Atoms.Permission\bin\Debug\Atoms.Permission.dll
 E:\GitHub\AllAtoms\Atoms\Atoms.Permission\bin\Debug\Atoms.Permission.pdb
 E:\GitHub\AllAtoms\Atoms\Atoms.Permission\obj\Debug\Atoms.Permission.dll
 E:\GitHub\AllAtoms\Atoms\Atoms.Permission\obj\Debug\Atoms.Permission.pdb
+D:\GitHub\AllAtoms\Atoms\Atoms.Permission\obj\Debug\Atoms.Permission.csproj.CoreCompileInputs.cache
+D:\GitHub\AllAtoms\Atoms\Atoms.Permission\obj\Debug\Atoms.Permission.dll
+D:\GitHub\AllAtoms\Atoms\Atoms.Permission\obj\Debug\Atoms.Permission.pdb
+D:\GitHub\AllAtoms\Atoms\Atoms.Permission\bin\Debug\Atoms.Permission.dll
+D:\GitHub\AllAtoms\Atoms\Atoms.Permission\bin\Debug\Atoms.Permission.pdb

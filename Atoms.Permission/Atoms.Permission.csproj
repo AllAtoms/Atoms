@@ -42,20 +42,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="OrmSon\Converter\DataSetConverter.cs" />
+    <Compile Include="OrmSon\Converter\QueryConverter.cs" />
+    <Compile Include="OrmSon\Converter\TypeConverter.cs" />
+    <Compile Include="OrmSon\Core\MssqlOperator.cs" />
+    <Compile Include="OrmSon\Core\SonConnection.cs" />
+    <Compile Include="OrmSon\Core\SonFact.cs" />
+    <Compile Include="OrmSon\Core\SqlExeHandler.cs" />
+    <Compile Include="OrmSon\Global\TypeOperator.cs" />
+    <Compile Include="OrmSon\Linq\ExpressionResolve.cs" />
+    <Compile Include="OrmSon\Mapper\DescriptionAttribute.cs" />
+    <Compile Include="OrmSon\Mapper\EntityMapper.cs" />
+    <Compile Include="OrmSon\Mapper\KeyAttribute.cs" />
+    <Compile Include="OrmSon\Mapper\TableNameAttribute.cs" />
     <Compile Include="PermissionCacher.cs" />
-    <Compile Include="Orm.Son\Converter\DataSetConverter.cs" />
-    <Compile Include="Orm.Son\Converter\QueryConverter.cs" />
-    <Compile Include="Orm.Son\Converter\TypeConverter.cs" />
-    <Compile Include="Orm.Son\Core\MssqlOperator.cs" />
-    <Compile Include="Orm.Son\Core\SonConnection.cs" />
-    <Compile Include="Orm.Son\Core\SonFact.cs" />
-    <Compile Include="Orm.Son\Core\SqlExeHandler.cs" />
-    <Compile Include="Orm.Son\Global\TypeOperator.cs" />
-    <Compile Include="Orm.Son\Linq\ExpressionResolve.cs" />
-    <Compile Include="Orm.Son\Mapper\DescriptionAttribute.cs" />
-    <Compile Include="Orm.Son\Mapper\EntityMapper.cs" />
-    <Compile Include="Orm.Son\Mapper\KeyAttribute.cs" />
-    <Compile Include="Orm.Son\Mapper\TableNameAttribute.cs" />
     <Compile Include="PermissionDataCore.cs" />
     <Compile Include="SonDbContext.cs" />
     <Compile Include="Model\C_Permission.cs" />

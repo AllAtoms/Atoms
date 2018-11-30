@@ -186,7 +186,7 @@ namespace Orm.Son.Core
                 var result = sql.ExeSql(dbConn);
                 return true;
             }
-            catch
+            catch(Exception ex)
             {
                 return false;
             }

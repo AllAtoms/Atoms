@@ -9,7 +9,7 @@ namespace Atoms.Test
         [TestInitialize]
         public void Init()
         {
-            Logger.Logger.Init("conn");
+            Logger.Logger.Init("conn","local");
         }
 
         [TestMethod]

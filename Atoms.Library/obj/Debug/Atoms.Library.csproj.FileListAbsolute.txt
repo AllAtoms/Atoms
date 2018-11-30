@@ -9,6 +9,13 @@ E:\GitHub\AllAtoms\Atoms\Atoms.Library\bin\Debug\Atoms.Library.dll
 E:\GitHub\AllAtoms\Atoms\Atoms.Library\bin\Debug\Atoms.Library.pdb
 E:\GitHub\AllAtoms\Atoms\Atoms.Library\bin\Debug\Newtonsoft.Json.dll
 E:\GitHub\AllAtoms\Atoms\Atoms.Library\bin\Debug\Newtonsoft.Json.xml
-E:\GitHub\AllAtoms\Atoms\Atoms.Library\obj\Debug\Atoms.Library.csprojResolveAssemblyReference.cache
 E:\GitHub\AllAtoms\Atoms\Atoms.Library\obj\Debug\Atoms.Library.dll
 E:\GitHub\AllAtoms\Atoms\Atoms.Library\obj\Debug\Atoms.Library.pdb
+D:\GitHub\AllAtoms\Atoms\Atoms.Library\bin\Debug\Atoms.Library.dll
+D:\GitHub\AllAtoms\Atoms\Atoms.Library\bin\Debug\Atoms.Library.pdb
+D:\GitHub\AllAtoms\Atoms\Atoms.Library\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\AllAtoms\Atoms\Atoms.Library\bin\Debug\Newtonsoft.Json.xml
+D:\GitHub\AllAtoms\Atoms\Atoms.Library\obj\Debug\Atoms.Library.csproj.CoreCompileInputs.cache
+D:\GitHub\AllAtoms\Atoms\Atoms.Library\obj\Debug\Atoms.Library.csproj.CopyComplete
+D:\GitHub\AllAtoms\Atoms\Atoms.Library\obj\Debug\Atoms.Library.dll
+D:\GitHub\AllAtoms\Atoms\Atoms.Library\obj\Debug\Atoms.Library.pdb

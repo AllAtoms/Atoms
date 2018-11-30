@@ -50,6 +50,7 @@
     <Compile Include="OrmSon\Converter\TypeConverter.cs" />
     <Compile Include="OrmSon\Core\MssqlOperator.cs" />
     <Compile Include="OrmSon\Core\SonConnection.cs" />
+    <Compile Include="OrmSon\Core\SonFact.cs" />
     <Compile Include="OrmSon\Core\SqlExeHandler.cs" />
     <Compile Include="OrmSon\Global\TypeOperator.cs" />
     <Compile Include="OrmSon\Linq\ExpressionResolve.cs" />

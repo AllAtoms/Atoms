@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Orm.Son.Core;
+using System;
 using System.Collections.Generic;
 
 namespace Atoms.Configer
@@ -9,6 +10,7 @@ namespace Atoms.Configer
         internal static ConfigManage Confm= new ConfigManage();
         public static void Init(string dbConnStr)
         {
+            SonFact.init(dbConnStr);
             DbConnName = dbConnStr;
             Confm.CheckOrCreateDb();
         }
